@@ -1,0 +1,10 @@
+{
+  "name": "senseiSudoku-Editor",
+  "references": [
+    "senseiSudoku"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
